@@ -4,5 +4,17 @@
   "artist": "Чо Йонг Сок",
   "author": "Чо Йонг Сок",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "0": {
+      "title": "0",
+      "volume": "1",
+      "last_updated": "1691178811",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=1xjXw7Jc1PuHSY53WF6C7rbzOFhcBn-F_",
+          ""
+        ]
+      }
+    }
+  }
 }
