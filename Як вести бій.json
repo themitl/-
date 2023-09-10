@@ -4,5 +4,22 @@
   "artist": "Кім Чжон Хен",
   "author": "Пак Те Джун",
   "cover": "https://drive.google.com/uc?export=view&id=15SjDWJ6Bh_syibB49qlyyGoGtnUGoCkP",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1694331192",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=1b7Z2AOMalC-wzqioQ04y24uU6Hi91b_B",
+          "https://drive.google.com/uc?export=view&id=1WvJ5ryDMsgXbv-U0go-tKDCsN0kQgwDR",
+          "https://drive.google.com/uc?export=view&id=123hmBJUcJd7X_oe80sdzNTjhLHZeHQqi",
+          "https://drive.google.com/uc?export=view&id=1APOy_qJEHuWylGyMsbN4yN_t5plt7kHj",
+          "https://drive.google.com/uc?export=view&id=1tDRhrlLhWDZ8665KT3Qiv_WqhBV_BjcJ",
+          "https://drive.google.com/uc?export=view&id=1FfrfXuooyebQTj0cTjnUANv_uWW6XK04",
+          "https://drive.google.com/uc?export=view&id=1vEiDLG103LbwR2yTIa2ss-i4QNpLekSt"
+        ]
+      }
+    }
+  }
 }
